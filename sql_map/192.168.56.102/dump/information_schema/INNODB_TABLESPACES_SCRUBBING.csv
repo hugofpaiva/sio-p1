@@ -1,0 +1,10 @@
+NAME,SPACE,COMPRESSED,LAST_SCRUB_COMPLETED,CURRENT_SCRUB_STARTED,CURRENT_SCRUB_PAGE_NUMBER,CURRENT_SCRUB_ACTIVE_THREADS,CURRENT_SCRUB_MAX_PAGE_NUMBER
+innodb_system,0,0,NULL,NULL,0,NULL,0
+mysql/gtid_slave_pos,4,0,NULL,NULL,0,NULL,0
+mysql/innodb_index_stats,2,0,NULL,NULL,0,NULL,0
+mysql/innodb_table_stats,1,0,NULL,NULL,0,NULL,0
+mysql/transaction_registry,3,0,NULL,NULL,0,NULL,0
+oldstore/tblBlogs,22,0,NULL,NULL,0,NULL,0
+oldstore/tblMembers,20,0,NULL,NULL,0,NULL,0
+oldstore/tblProducts,21,0,NULL,NULL,0,NULL,0
+

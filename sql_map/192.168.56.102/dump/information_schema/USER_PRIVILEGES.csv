@@ -1,0 +1,120 @@
+GRANTEE,IS_GRANTABLE,TABLE_CATALOG,PRIVILEGE_TYPE
+'root'@'localhost',YES,def,SELECT
+'root'@'localhost',YES,def,INSERT
+'root'@'localhost',YES,def,UPDATE
+'root'@'localhost',YES,def,DELETE
+'root'@'localhost',YES,def,CREATE
+'root'@'localhost',YES,def,DROP
+'root'@'localhost',YES,def,RELOAD
+'root'@'localhost',YES,def,SHUTDOWN
+'root'@'localhost',YES,def,PROCESS
+'root'@'localhost',YES,def,FILE
+'root'@'localhost',YES,def,REFERENCES
+'root'@'localhost',YES,def,INDEX
+'root'@'localhost',YES,def,ALTER
+'root'@'localhost',YES,def,SHOW DATABASES
+'root'@'localhost',YES,def,SUPER
+'root'@'localhost',YES,def,CREATE TEMPORARY TABLES
+'root'@'localhost',YES,def,LOCK TABLES
+'root'@'localhost',YES,def,EXECUTE
+'root'@'localhost',YES,def,REPLICATION SLAVE
+'root'@'localhost',YES,def,REPLICATION CLIENT
+'root'@'localhost',YES,def,CREATE VIEW
+'root'@'localhost',YES,def,SHOW VIEW
+'root'@'localhost',YES,def,CREATE ROUTINE
+'root'@'localhost',YES,def,ALTER ROUTINE
+'root'@'localhost',YES,def,CREATE USER
+'root'@'localhost',YES,def,EVENT
+'root'@'localhost',YES,def,TRIGGER
+'root'@'localhost',YES,def,CREATE TABLESPACE
+'root'@'localhost',YES,def,DELETE HISTORY
+'root'@'proj1',YES,def,SELECT
+'root'@'proj1',YES,def,INSERT
+'root'@'proj1',YES,def,UPDATE
+'root'@'proj1',YES,def,DELETE
+'root'@'proj1',YES,def,CREATE
+'root'@'proj1',YES,def,DROP
+'root'@'proj1',YES,def,RELOAD
+'root'@'proj1',YES,def,SHUTDOWN
+'root'@'proj1',YES,def,PROCESS
+'root'@'proj1',YES,def,FILE
+'root'@'proj1',YES,def,REFERENCES
+'root'@'proj1',YES,def,INDEX
+'root'@'proj1',YES,def,ALTER
+'root'@'proj1',YES,def,SHOW DATABASES
+'root'@'proj1',YES,def,SUPER
+'root'@'proj1',YES,def,CREATE TEMPORARY TABLES
+'root'@'proj1',YES,def,LOCK TABLES
+'root'@'proj1',YES,def,EXECUTE
+'root'@'proj1',YES,def,REPLICATION SLAVE
+'root'@'proj1',YES,def,REPLICATION CLIENT
+'root'@'proj1',YES,def,CREATE VIEW
+'root'@'proj1',YES,def,SHOW VIEW
+'root'@'proj1',YES,def,CREATE ROUTINE
+'root'@'proj1',YES,def,ALTER ROUTINE
+'root'@'proj1',YES,def,CREATE USER
+'root'@'proj1',YES,def,EVENT
+'root'@'proj1',YES,def,TRIGGER
+'root'@'proj1',YES,def,CREATE TABLESPACE
+'root'@'proj1',YES,def,DELETE HISTORY
+'root'@'127.0.0.1',YES,def,SELECT
+'root'@'127.0.0.1',YES,def,INSERT
+'root'@'127.0.0.1',YES,def,UPDATE
+'root'@'127.0.0.1',YES,def,DELETE
+'root'@'127.0.0.1',YES,def,CREATE
+'root'@'127.0.0.1',YES,def,DROP
+'root'@'127.0.0.1',YES,def,RELOAD
+'root'@'127.0.0.1',YES,def,SHUTDOWN
+'root'@'127.0.0.1',YES,def,PROCESS
+'root'@'127.0.0.1',YES,def,FILE
+'root'@'127.0.0.1',YES,def,REFERENCES
+'root'@'127.0.0.1',YES,def,INDEX
+'root'@'127.0.0.1',YES,def,ALTER
+'root'@'127.0.0.1',YES,def,SHOW DATABASES
+'root'@'127.0.0.1',YES,def,SUPER
+'root'@'127.0.0.1',YES,def,CREATE TEMPORARY TABLES
+'root'@'127.0.0.1',YES,def,LOCK TABLES
+'root'@'127.0.0.1',YES,def,EXECUTE
+'root'@'127.0.0.1',YES,def,REPLICATION SLAVE
+'root'@'127.0.0.1',YES,def,REPLICATION CLIENT
+'root'@'127.0.0.1',YES,def,CREATE VIEW
+'root'@'127.0.0.1',YES,def,SHOW VIEW
+'root'@'127.0.0.1',YES,def,CREATE ROUTINE
+'root'@'127.0.0.1',YES,def,ALTER ROUTINE
+'root'@'127.0.0.1',YES,def,CREATE USER
+'root'@'127.0.0.1',YES,def,EVENT
+'root'@'127.0.0.1',YES,def,TRIGGER
+'root'@'127.0.0.1',YES,def,CREATE TABLESPACE
+'root'@'127.0.0.1',YES,def,DELETE HISTORY
+'root'@'::1',YES,def,SELECT
+'root'@'::1',YES,def,INSERT
+'root'@'::1',YES,def,UPDATE
+'root'@'::1',YES,def,DELETE
+'root'@'::1',YES,def,CREATE
+'root'@'::1',YES,def,DROP
+'root'@'::1',YES,def,RELOAD
+'root'@'::1',YES,def,SHUTDOWN
+'root'@'::1',YES,def,PROCESS
+'root'@'::1',YES,def,FILE
+'root'@'::1',YES,def,REFERENCES
+'root'@'::1',YES,def,INDEX
+'root'@'::1',YES,def,ALTER
+'root'@'::1',YES,def,SHOW DATABASES
+'root'@'::1',YES,def,SUPER
+'root'@'::1',YES,def,CREATE TEMPORARY TABLES
+'root'@'::1',YES,def,LOCK TABLES
+'root'@'::1',YES,def,EXECUTE
+'root'@'::1',YES,def,REPLICATION SLAVE
+'root'@'::1',YES,def,REPLICATION CLIENT
+'root'@'::1',YES,def,CREATE VIEW
+'root'@'::1',YES,def,SHOW VIEW
+'root'@'::1',YES,def,CREATE ROUTINE
+'root'@'::1',YES,def,ALTER ROUTINE
+'root'@'::1',YES,def,CREATE USER
+'root'@'::1',YES,def,EVENT
+'root'@'::1',YES,def,TRIGGER
+'root'@'::1',YES,def,CREATE TABLESPACE
+'root'@'::1',YES,def,DELETE HISTORY
+''@'localhost',NO,def,USAGE
+''@'proj1',NO,def,USAGE
+

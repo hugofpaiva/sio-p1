@@ -1,0 +1,10 @@
+id,name,type,price,detail
+1,Raspberry Pi 4,1,70,Quad-Core Cortex-A72 (ARM v8) 64-bit SoC at 1.5GHz<br />USB 3.0<br />Small Integrating Solution<br />
+2,Rock64,1,40,Rockchip RK3328 Quad-Core SOC with Mali 450MP2<br />USB 3.0<br />Cheap Integrating Solution<br />
+3,Jetson Nano 2GB,1,80,Quad-core ARM A57 at 1.43 GHz<br />128-core NVIDIA Maxwell<br />AI Integrating Solution<br />
+4,Sigma Charger,1,15,Power to you!<br />5V-2A micro USB<br />Shockingly impressive<br />
+5,Linux Base,2,10,"Our cheapest solution<br />Mostly FOSS<br />Reliable, but without any warranty<br />"
+6,OpenBSD Base,2,10,The best budget solution<br />Mostly FOSS<br />Reliable and secured by someone else<br />
+7,Windows Base,2,600,"100% Easy Rider style<br />Opens many Windows and sometimes screens with emojis!<br />It just works, as long as there is no new update<br />"
+8,AWS Powered,2,500,Cloud Powered service<br />Scales rapidly and on-demand<br />The best for everyone!
+

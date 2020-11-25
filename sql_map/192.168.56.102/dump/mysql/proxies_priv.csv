@@ -1,0 +1,4 @@
+Host,User,Grantor,With_grant,Timestamp,Proxied_host,Proxied_user
+localhost,root,<blank>,1,2020-10-26 15:55:29,<blank>,<blank>
+proj1,root,<blank>,1,2020-10-26 15:55:29,<blank>,<blank>
+

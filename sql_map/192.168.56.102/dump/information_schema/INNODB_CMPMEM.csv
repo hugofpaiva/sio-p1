@@ -1,0 +1,7 @@
+page_size,pages_free,pages_used,relocation_ops,relocation_time,buffer_pool_instance
+1024,0,0,0,0,0
+2048,0,0,0,0,0
+4096,0,0,0,0,0
+8192,0,0,0,0,0
+16384,0,0,0,0,0
+

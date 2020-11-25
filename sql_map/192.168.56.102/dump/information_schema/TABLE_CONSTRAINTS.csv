@@ -1,0 +1,35 @@
+TABLE_NAME,TABLE_SCHEMA,CONSTRAINT_NAME,CONSTRAINT_TYPE,CONSTRAINT_SCHEMA,CONSTRAINT_CATALOG
+innodb_index_stats,mysql,PRIMARY,PRIMARY KEY,mysql,def
+time_zone_leap_second,mysql,PRIMARY,PRIMARY KEY,mysql,def
+time_zone_name,mysql,PRIMARY,PRIMARY KEY,mysql,def
+proc,mysql,PRIMARY,PRIMARY KEY,mysql,def
+help_keyword,mysql,PRIMARY,PRIMARY KEY,mysql,def
+help_keyword,mysql,name,UNIQUE,mysql,def
+time_zone_transition_type,mysql,PRIMARY,PRIMARY KEY,mysql,def
+help_relation,mysql,PRIMARY,PRIMARY KEY,mysql,def
+roles_mapping,mysql,Host,UNIQUE,mysql,def
+innodb_table_stats,mysql,PRIMARY,PRIMARY KEY,mysql,def
+user,mysql,PRIMARY,PRIMARY KEY,mysql,def
+help_topic,mysql,PRIMARY,PRIMARY KEY,mysql,def
+help_topic,mysql,name,UNIQUE,mysql,def
+servers,mysql,PRIMARY,PRIMARY KEY,mysql,def
+time_zone_transition,mysql,PRIMARY,PRIMARY KEY,mysql,def
+help_category,mysql,PRIMARY,PRIMARY KEY,mysql,def
+help_category,mysql,name,UNIQUE,mysql,def
+column_stats,mysql,PRIMARY,PRIMARY KEY,mysql,def
+db,mysql,PRIMARY,PRIMARY KEY,mysql,def
+tables_priv,mysql,PRIMARY,PRIMARY KEY,mysql,def
+procs_priv,mysql,PRIMARY,PRIMARY KEY,mysql,def
+func,mysql,PRIMARY,PRIMARY KEY,mysql,def
+index_stats,mysql,PRIMARY,PRIMARY KEY,mysql,def
+transaction_registry,mysql,PRIMARY,PRIMARY KEY,mysql,def
+transaction_registry,mysql,commit_id,UNIQUE,mysql,def
+proxies_priv,mysql,PRIMARY,PRIMARY KEY,mysql,def
+gtid_slave_pos,mysql,PRIMARY,PRIMARY KEY,mysql,def
+table_stats,mysql,PRIMARY,PRIMARY KEY,mysql,def
+columns_priv,mysql,PRIMARY,PRIMARY KEY,mysql,def
+plugin,mysql,PRIMARY,PRIMARY KEY,mysql,def
+event,mysql,PRIMARY,PRIMARY KEY,mysql,def
+time_zone,mysql,PRIMARY,PRIMARY KEY,mysql,def
+host,mysql,PRIMARY,PRIMARY KEY,mysql,def
+

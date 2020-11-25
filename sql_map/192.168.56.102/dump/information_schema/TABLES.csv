@@ -1,0 +1,164 @@
+ENGINE,CHECKSUM,DATA_FREE,VERSION,CHECK_TIME,ROW_FORMAT,TABLE_NAME,TABLE_ROWS,TABLE_TYPE,CREATE_TIME,DATA_LENGTH,UPDATE_TIME,TEMPORARY,INDEX_LENGTH,TABLE_SCHEMA,TABLE_CATALOG,TABLE_COMMENT,AUTO_INCREMENT,AVG_ROW_LENGTH,CREATE_OPTIONS,MAX_DATA_LENGTH,TABLE_COLLATION,MAX_INDEX_LENGTH
+Aria,NULL,0,11,NULL,Page,ALL_PLUGINS,NULL,SYSTEM VIEW,2020-11-12 00:22:58,8192,2020-11-12 00:22:58,Y,8192,information_schema,def,<blank>,NULL,0,max_rows=9441,4503599627288576,utf8_general_ci,137438945280
+MEMORY,NULL,0,11,NULL,Fixed,APPLICABLE_ROLES,NULL,SYSTEM VIEW,2020-11-12 00:22:58,0,NULL,Y,0,information_schema,def,<blank>,NULL,979,max_rows=17137,16691950,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,CHARACTER_SETS,NULL,SYSTEM VIEW,2020-11-12 00:22:58,0,NULL,Y,0,information_schema,def,<blank>,NULL,384,max_rows=43690,16434816,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,CHECK_CONSTRAINTS,NULL,SYSTEM VIEW,2020-11-12 00:22:58,0,NULL,Y,0,information_schema,def,<blank>,NULL,2311,max_rows=7259,16768616,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,COLLATIONS,NULL,SYSTEM VIEW,2020-11-12 00:22:58,0,NULL,Y,0,information_schema,def,<blank>,NULL,231,max_rows=72628,16704765,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,COLLATION_CHARACTER_SET_APPLICABILITY,NULL,SYSTEM VIEW,2020-11-12 00:22:58,0,NULL,Y,0,information_schema,def,<blank>,NULL,195,max_rows=86037,16357770,utf8_general_ci,0
+Aria,NULL,0,11,NULL,Page,COLUMNS,NULL,SYSTEM VIEW,2020-11-12 00:22:58,8192,2020-11-12 00:22:58,Y,8192,information_schema,def,<blank>,NULL,0,max_rows=2779,4503599627288576,utf8_general_ci,137438945280
+MEMORY,NULL,0,11,NULL,Fixed,COLUMN_PRIVILEGES,NULL,SYSTEM VIEW,2020-11-12 00:22:58,0,NULL,Y,0,information_schema,def,<blank>,NULL,2893,max_rows=5799,16759149,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,ENABLED_ROLES,NULL,SYSTEM VIEW,2020-11-12 00:22:58,0,NULL,Y,0,information_schema,def,<blank>,NULL,387,max_rows=43351,16563213,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,ENGINES,NULL,SYSTEM VIEW,2020-11-12 00:22:58,0,NULL,Y,0,information_schema,def,<blank>,NULL,731,max_rows=22951,16663145,utf8_general_ci,0
+Aria,NULL,0,11,NULL,Page,EVENTS,NULL,SYSTEM VIEW,2020-11-12 00:22:58,8192,2020-11-12 00:22:58,Y,8192,information_schema,def,<blank>,NULL,0,max_rows=611,4503599627288576,utf8_general_ci,137438945280
+MEMORY,NULL,0,11,NULL,Fixed,FILES,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,4022,max_rows=4171,16767718,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,GLOBAL_STATUS,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,6340,max_rows=2646,16762960,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,GLOBAL_VARIABLES,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,6340,max_rows=2646,16762960,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,KEY_CACHES,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,659,max_rows=25458,16650294,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,KEY_COLUMN_USAGE,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,4637,max_rows=3618,16762755,utf8_general_ci,0
+Aria,NULL,0,11,NULL,Page,PARAMETERS,NULL,SYSTEM VIEW,2020-11-12 00:22:59,8192,2020-11-12 00:22:59,Y,8192,information_schema,def,<blank>,NULL,0,max_rows=6030,4503599627288576,utf8_general_ci,137438945280
+Aria,NULL,0,11,NULL,Page,PARTITIONS,NULL,SYSTEM VIEW,2020-11-12 00:22:59,8192,2020-11-12 00:22:59,Y,8192,information_schema,def,<blank>,NULL,0,max_rows=5579,4503599627288576,utf8_general_ci,137438945280
+Aria,NULL,0,11,NULL,Page,PLUGINS,NULL,SYSTEM VIEW,2020-11-12 00:22:59,8192,2020-11-12 00:22:59,Y,8192,information_schema,def,<blank>,NULL,0,max_rows=9441,4503599627288576,utf8_general_ci,137438945280
+Aria,NULL,0,11,NULL,Page,PROCESSLIST,NULL,SYSTEM VIEW,2020-11-12 00:22:59,8192,2020-11-12 00:22:59,Y,8192,information_schema,def,<blank>,NULL,0,max_rows=15224,4503599627288576,utf8_general_ci,137438945280
+MEMORY,NULL,0,11,NULL,Fixed,PROFILING,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,308,max_rows=54471,16562084,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,REFERENTIAL_CONSTRAINTS,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,4814,max_rows=3485,16767162,utf8_general_ci,0
+Aria,NULL,0,11,NULL,Page,ROUTINES,NULL,SYSTEM VIEW,2020-11-12 00:22:59,8192,2020-11-12 00:22:59,Y,8192,information_schema,def,<blank>,NULL,0,max_rows=576,4503599627288576,utf8_general_ci,137438945280
+MEMORY,NULL,0,11,NULL,Fixed,SCHEMATA,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,3464,max_rows=4843,16738048,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,SCHEMA_PRIVILEGES,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,2507,max_rows=6692,16741746,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,SESSION_STATUS,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,6340,max_rows=2646,16762960,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,SESSION_VARIABLES,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,6340,max_rows=2646,16762960,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,STATISTICS,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,5753,max_rows=2916,16752736,utf8_general_ci,0
+Aria,NULL,0,11,NULL,Page,SYSTEM_VARIABLES,NULL,SYSTEM VIEW,2020-11-12 00:22:59,8192,2020-11-12 00:22:59,Y,8192,information_schema,def,<blank>,NULL,0,max_rows=651,4503599627288576,utf8_general_ci,137438945280
+MEMORY,NULL,0,11,NULL,Fixed,TABLES,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,14841,max_rows=1130,16755489,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,TABLESPACES,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,6951,max_rows=2413,16772763,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,TABLE_CONSTRAINTS,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,2504,max_rows=6700,16721712,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,TABLE_PRIVILEGES,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,2700,max_rows=6213,16750800,utf8_general_ci,0
+Aria,NULL,0,11,NULL,Page,TRIGGERS,NULL,SYSTEM VIEW,2020-11-12 00:22:59,8192,2020-11-12 00:22:59,Y,8192,information_schema,def,<blank>,NULL,0,max_rows=563,4503599627288576,utf8_general_ci,137438945280
+MEMORY,NULL,0,11,NULL,Fixed,USER_PRIVILEGES,NULL,SYSTEM VIEW,2020-11-12 00:22:59,0,NULL,Y,0,information_schema,def,<blank>,NULL,2314,max_rows=7250,16732534,utf8_general_ci,0
+Aria,NULL,0,11,NULL,Page,VIEWS,NULL,SYSTEM VIEW,2020-11-12 00:22:59,8192,2020-11-12 00:22:59,Y,8192,information_schema,def,<blank>,NULL,0,max_rows=6019,4503599627288576,utf8_general_ci,137438945280
+MEMORY,NULL,0,11,NULL,Fixed,GEOMETRY_COLUMNS,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,4244,max_rows=3953,16759556,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,SPATIAL_REF_SYS,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,7691,max_rows=2181,16758689,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,CLIENT_STATISTICS,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,386,max_rows=43464,16520414,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INDEX_STATISTICS,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,1743,max_rows=9625,16765917,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_SYS_DATAFILES,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,12007,max_rows=1397,16773779,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,USER_STATISTICS,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,567,max_rows=29589,16747479,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_SYS_TABLESTATS,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,1215,max_rows=13808,16763355,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_LOCKS,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,31244,max_rows=536,16746784,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_MUTEXES,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,24017,max_rows=698,16763866,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_CMPMEM,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,29,max_rows=578524,15204352,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_CMP_PER_INDEX,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,1755,max_rows=9559,16728660,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_CMP,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,25,max_rows=671088,13107200,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_FT_DELETED,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,9,max_rows=1864135,9437184,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_CMP_RESET,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,25,max_rows=671088,13107200,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_LOCK_WAITS,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,599,max_rows=28008,16749238,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,TABLE_STATISTICS,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,1181,max_rows=14205,16733589,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_TABLESPACES_ENCRYPTION,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,2012,max_rows=8338,16743864,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_BUFFER_PAGE_LRU,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,6669,max_rows=2515,16765866,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_SYS_FIELDS,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,594,max_rows=28244,16609428,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_CMPMEM_RESET,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,29,max_rows=578524,15204352,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_SYS_COLUMNS,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,610,max_rows=27503,16613350,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_FT_INDEX_TABLE,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,1054,max_rows=15917,16744898,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_CMP_PER_INDEX_RESET,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,1755,max_rows=9559,16728660,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,user_variables,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,6630,max_rows=2530,16767270,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_FT_INDEX_CACHE,NULL,SYSTEM VIEW,2020-11-12 00:23:00,0,NULL,Y,0,information_schema,def,<blank>,NULL,1054,max_rows=15917,16744898,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_SYS_FOREIGN_COLS,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,1748,max_rows=9597,16738848,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_FT_BEING_DELETED,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,9,max_rows=1864135,9437184,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_BUFFER_POOL_STATS,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,257,max_rows=65280,16332350,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_TRX,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,4530,max_rows=3703,16751940,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_SYS_FOREIGN,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,1752,max_rows=9576,16700064,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_SYS_TABLES,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,2060,max_rows=8144,16743680,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_FT_DEFAULT_STOPWORD,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,56,max_rows=299593,14680064,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_FT_CONFIG,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,1163,max_rows=14425,16705332,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_BUFFER_PAGE,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,6852,max_rows=2448,16766844,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_SYS_TABLESPACES,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,2102,max_rows=7981,16759246,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_METRICS,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,3003,max_rows=5586,16747731,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_SYS_INDEXES,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,618,max_rows=27147,16615548,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_SYS_VIRTUAL,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,17,max_rows=986895,11883850,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_TABLESPACES_SCRUBBING,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,2016,max_rows=8322,16710624,utf8_general_ci,0
+MEMORY,NULL,0,11,NULL,Fixed,INNODB_SYS_SEMAPHORE_WAITS,NULL,SYSTEM VIEW,2020-11-12 00:23:01,0,NULL,Y,0,information_schema,def,<blank>,NULL,60189,max_rows=278,16732542,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,cond_instances,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_waits_current,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_waits_history,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_waits_history_long,10000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_waits_summary_by_host_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_waits_summary_by_instance,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_waits_summary_by_thread_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_waits_summary_by_user_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_waits_summary_by_account_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_waits_summary_global_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,file_instances,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,file_summary_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,file_summary_by_instance,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,host_cache,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,mutex_instances,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,objects_summary_global_by_type,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Fixed,performance_timers,5,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,rwlock_instances,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Fixed,setup_actors,0,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,setup_consumers,12,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,setup_instruments,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,setup_objects,0,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,setup_timers,4,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,table_io_waits_summary_by_index_usage,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,table_io_waits_summary_by_table,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,table_lock_waits_summary_by_table,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,threads,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_stages_current,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_stages_history,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_stages_history_long,10000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_stages_summary_by_thread_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_stages_summary_by_account_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_stages_summary_by_user_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_stages_summary_by_host_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_stages_summary_global_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_statements_current,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_statements_history,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_statements_history_long,10000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_statements_summary_by_thread_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_statements_summary_by_account_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_statements_summary_by_user_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_statements_summary_by_host_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_statements_summary_global_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,events_statements_summary_by_digest,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Fixed,users,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Fixed,accounts,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Fixed,hosts,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,socket_instances,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,socket_summary_by_instance,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,socket_summary_by_event_name,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_general_ci,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,session_connect_attrs,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_bin,0
+PERFORMANCE_SCHEMA,NULL,0,10,NULL,Dynamic,session_account_connect_attrs,1000,BASE TABLE,NULL,0,NULL,N,0,performance_schema,def,<blank>,NULL,0,<blank>,0,utf8_bin,0
+InnoDB,NULL,0,10,NULL,Dynamic,innodb_index_stats,13,BASE TABLE,2020-10-26 15:56:42,16384,2020-11-11 23:18:56,N,0,mysql,def,<blank>,NULL,1260,stats_persistent=0,0,utf8_bin,0
+MyISAM,NULL,0,10,NULL,Fixed,time_zone_leap_second,0,BASE TABLE,2020-10-26 15:55:28,0,2020-10-26 15:55:28,N,1024,mysql,def,Leap seconds information for time zones,NULL,0,<blank>,3659174697238527,utf8_general_ci,1125899906841600
+MyISAM,NULL,0,10,NULL,Fixed,time_zone_name,0,BASE TABLE,2020-10-26 15:55:28,0,2020-10-26 15:55:28,N,1024,mysql,def,Time zone names,NULL,0,<blank>,55450570411999231,utf8_general_ci,1125899906841600
+MyISAM,NULL,816,10,NULL,Dynamic,proc,2,BASE TABLE,2020-10-26 15:56:42,1948,2020-10-26 15:56:42,N,4096,mysql,def,Stored Procedures,NULL,566,<blank>,281474976710655,utf8_general_ci,288230376151710720
+MyISAM,NULL,0,10,NULL,Fixed,help_keyword,464,BASE TABLE,2020-10-26 15:55:28,91408,2020-10-26 15:55:29,N,16384,mysql,def,help keywords,NULL,197,<blank>,55450570411999231,utf8_general_ci,1125899906841600
+MyISAM,NULL,0,10,NULL,Fixed,time_zone_transition_type,0,BASE TABLE,2020-10-26 15:55:28,0,2020-10-26 15:55:28,N,1024,mysql,def,Time zone transition types,NULL,0,<blank>,10696049115004927,utf8_general_ci,1125899906841600
+MyISAM,NULL,0,10,NULL,Fixed,help_relation,1028,BASE TABLE,2020-10-26 15:55:28,9252,2020-10-26 15:55:29,N,19456,mysql,def,keyword-topic relation,NULL,9,<blank>,2533274790395903,utf8_general_ci,1125899906841600
+MyISAM,NULL,0,10,NULL,Fixed,roles_mapping,0,BASE TABLE,2020-10-26 15:55:28,0,2020-10-26 15:55:28,N,4096,mysql,def,Granted roles,NULL,0,<blank>,186336434582454271,utf8_bin,1125899906841600
+InnoDB,NULL,0,10,NULL,Dynamic,innodb_table_stats,4,BASE TABLE,2020-10-26 15:56:42,16384,2020-11-11 23:18:56,N,0,mysql,def,<blank>,NULL,4096,stats_persistent=0,0,utf8_bin,0
+MyISAM,NULL,0,10,NULL,Dynamic,user,6,BASE TABLE,2020-10-26 15:56:42,476,2020-10-28 11:59:06,N,4096,mysql,def,Users and global privileges,NULL,79,<blank>,281474976710655,utf8_bin,288230376151710720
+MyISAM,NULL,0,10,NULL,Dynamic,help_topic,508,BASE TABLE,2020-10-26 15:55:28,405476,2020-10-26 15:55:29,N,20480,mysql,def,help topics,NULL,798,<blank>,281474976710655,utf8_general_ci,288230376151710720
+MyISAM,NULL,0,10,NULL,Dynamic,servers,0,BASE TABLE,2020-10-26 15:55:28,0,2020-10-26 15:55:28,N,1024,mysql,def,MySQL Foreign Servers table,NULL,0,<blank>,281474976710655,utf8_general_ci,288230376151710720
+MyISAM,NULL,0,10,NULL,Fixed,time_zone_transition,0,BASE TABLE,2020-10-26 15:55:28,0,2020-10-26 15:55:28,N,1024,mysql,def,Time zone transitions,NULL,0,<blank>,4785074604081151,utf8_general_ci,1125899906841600
+MyISAM,NULL,0,10,NULL,Dynamic,help_category,39,BASE TABLE,2020-10-26 15:55:28,1092,2020-10-26 15:55:28,N,3072,mysql,def,help categories,NULL,28,<blank>,281474976710655,utf8_general_ci,288230376151710720
+MyISAM,NULL,0,10,NULL,Dynamic,column_stats,0,BASE TABLE,2020-10-26 15:55:28,0,2020-10-26 15:55:28,N,4096,mysql,def,Statistics on Columns,NULL,0,<blank>,281474976710655,utf8_bin,288230376151710720
+MyISAM,NULL,0,10,NULL,Fixed,db,2,BASE TABLE,2020-10-26 15:56:42,1266,2020-10-26 15:56:42,N,10240,mysql,def,Database privileges,NULL,633,<blank>,178173660257845247,utf8_bin,1125899906841600
+MyISAM,NULL,0,10,2020-10-26 15:56:42,Fixed,tables_priv,0,BASE TABLE,2020-10-26 15:56:42,0,2020-10-26 15:56:42,N,4096,mysql,def,Table privileges,NULL,0,<blank>,347621596237660159,utf8_bin,1125899906841600
+MyISAM,NULL,0,10,2020-10-26 15:56:42,Fixed,procs_priv,0,BASE TABLE,2020-10-26 15:56:42,0,2020-10-26 15:56:42,N,4096,mysql,def,Procedure privileges,NULL,0,<blank>,347340121260949503,utf8_bin,1125899906841600
+MyISAM,NULL,0,10,2020-10-26 15:56:42,Fixed,func,0,BASE TABLE,2020-10-26 15:56:42,0,2020-10-26 15:56:42,N,1024,mysql,def,User defined functions,NULL,0,<blank>,162974011515469823,utf8_bin,1125899906841600
+CSV,NULL,0,10,NULL,Dynamic,slow_log,2,BASE TABLE,NULL,0,NULL,N,0,mysql,def,Slow log,NULL,0,<blank>,0,utf8_general_ci,0
+MyISAM,NULL,0,10,NULL,Dynamic,index_stats,0,BASE TABLE,2020-10-26 15:55:28,0,2020-10-26 15:55:28,N,4096,mysql,def,Statistics on Indexes,NULL,0,<blank>,281474976710655,utf8_bin,288230376151710720
+InnoDB,NULL,0,10,NULL,Dynamic,transaction_registry,0,BASE TABLE,2020-10-26 15:55:28,16384,NULL,N,49152,mysql,def,<blank>,NULL,0,stats_persistent=0,0,utf8_bin,0
+MyISAM,NULL,0,10,2020-10-26 15:55:28,Fixed,proxies_priv,2,BASE TABLE,2020-10-26 15:55:28,2538,2020-10-26 15:55:28,N,10240,mysql,def,User proxy privileges,NULL,1269,<blank>,357191745445822463,utf8_bin,1125899906841600
+InnoDB,NULL,0,10,NULL,Dynamic,gtid_slave_pos,0,BASE TABLE,2020-10-26 15:55:28,16384,NULL,N,0,mysql,def,Replication slave GTID position,NULL,0,<blank>,0,latin1_swedish_ci,0
+CSV,NULL,0,10,NULL,Dynamic,general_log,2,BASE TABLE,NULL,0,NULL,N,0,mysql,def,General log,NULL,0,<blank>,0,utf8_general_ci,0
+MyISAM,NULL,0,10,NULL,Dynamic,table_stats,0,BASE TABLE,2020-10-26 15:55:28,0,2020-10-26 15:55:28,N,2048,mysql,def,Statistics on Tables,NULL,0,<blank>,281474976710655,utf8_bin,288230376151710720
+MyISAM,NULL,0,10,2020-10-26 15:56:42,Fixed,columns_priv,0,BASE TABLE,2020-10-26 15:56:42,0,2020-10-26 15:56:42,N,4096,mysql,def,Column privileges,NULL,0,<blank>,282037926664077311,utf8_bin,1125899906841600
+MyISAM,NULL,0,10,2020-10-26 15:56:42,Dynamic,plugin,0,BASE TABLE,2020-10-26 15:56:42,0,2020-10-26 15:56:42,N,1024,mysql,def,MySQL plugins,NULL,0,<blank>,281474976710655,utf8_general_ci,288230376151710720
+MyISAM,NULL,0,10,NULL,Dynamic,event,0,BASE TABLE,2020-10-26 15:55:28,0,2020-10-26 15:55:28,N,2048,mysql,def,Events,NULL,0,<blank>,281474976710655,utf8_general_ci,288230376151710720
+MyISAM,NULL,0,10,NULL,Fixed,time_zone,0,BASE TABLE,2020-10-26 15:55:28,0,2020-10-26 15:55:28,N,1024,mysql,def,Time zones,1,0,<blank>,1970324836974591,utf8_general_ci,1125899906841600
+MyISAM,NULL,0,10,2020-10-26 15:56:42,Fixed,host,0,BASE TABLE,2020-10-26 15:56:42,0,2020-10-26 15:56:42,N,2048,mysql,def,Host privileges;  Merged with database privileges,NULL,0,<blank>,110056715893866495,utf8_bin,1125899906841600
+InnoDB,NULL,0,10,NULL,Dynamic,tblProducts,8,BASE TABLE,2020-10-26 19:08:30,16384,NULL,N,0,oldstore,def,<blank>,NULL,2048,<blank>,0,utf8mb4_general_ci,0
+InnoDB,NULL,0,10,NULL,Dynamic,tblMembers,0,BASE TABLE,2020-10-26 19:08:30,16384,2020-11-11 22:07:44,N,0,oldstore,def,<blank>,NULL,0,<blank>,0,utf8mb4_general_ci,0
+InnoDB,NULL,0,10,NULL,Dynamic,tblBlogs,21,BASE TABLE,2020-10-26 19:08:30,16384,2020-11-11 23:18:56,N,0,oldstore,def,<blank>,NULL,780,<blank>,0,utf8mb4_general_ci,0
+

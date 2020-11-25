@@ -1,0 +1,36 @@
+GRANTEE,IS_GRANTABLE,TABLE_SCHEMA,TABLE_CATALOG,PRIVILEGE_TYPE
+''@'%',NO,test,def,SELECT
+''@'%',NO,test,def,INSERT
+''@'%',NO,test,def,UPDATE
+''@'%',NO,test,def,DELETE
+''@'%',NO,test,def,CREATE
+''@'%',NO,test,def,DROP
+''@'%',NO,test,def,REFERENCES
+''@'%',NO,test,def,INDEX
+''@'%',NO,test,def,ALTER
+''@'%',NO,test,def,CREATE TEMPORARY TABLES
+''@'%',NO,test,def,LOCK TABLES
+''@'%',NO,test,def,CREATE VIEW
+''@'%',NO,test,def,SHOW VIEW
+''@'%',NO,test,def,CREATE ROUTINE
+''@'%',NO,test,def,EVENT
+''@'%',NO,test,def,TRIGGER
+''@'%',NO,test,def,DELETE HISTORY
+''@'%',NO,test\\_%,def,SELECT
+''@'%',NO,test\\_%,def,INSERT
+''@'%',NO,test\\_%,def,UPDATE
+''@'%',NO,test\\_%,def,DELETE
+''@'%',NO,test\\_%,def,CREATE
+''@'%',NO,test\\_%,def,DROP
+''@'%',NO,test\\_%,def,REFERENCES
+''@'%',NO,test\\_%,def,INDEX
+''@'%',NO,test\\_%,def,ALTER
+''@'%',NO,test\\_%,def,CREATE TEMPORARY TABLES
+''@'%',NO,test\\_%,def,LOCK TABLES
+''@'%',NO,test\\_%,def,CREATE VIEW
+''@'%',NO,test\\_%,def,SHOW VIEW
+''@'%',NO,test\\_%,def,CREATE ROUTINE
+''@'%',NO,test\\_%,def,EVENT
+''@'%',NO,test\\_%,def,TRIGGER
+''@'%',NO,test\\_%,def,DELETE HISTORY
+

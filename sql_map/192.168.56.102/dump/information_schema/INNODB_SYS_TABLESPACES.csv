@@ -1,0 +1,9 @@
+FLAG,NAME,SPACE,FILE_SIZE,PAGE_SIZE,ROW_FORMAT,SPACE_TYPE,FS_BLOCK_SIZE,ZIP_PAGE_SIZE,ALLOCATED_SIZE
+33,mysql/innodb_table_stats,1,98304,16384,Dynamic,Single,4096,16384,98304
+33,mysql/innodb_index_stats,2,98304,16384,Dynamic,Single,4096,16384,98304
+33,mysql/transaction_registry,3,147456,16384,Dynamic,Single,4096,16384,147456
+33,mysql/gtid_slave_pos,4,98304,16384,Dynamic,Single,4096,16384,98304
+33,oldstore/tblMembers,20,98304,16384,Dynamic,Single,4096,16384,98304
+33,oldstore/tblProducts,21,98304,16384,Dynamic,Single,4096,16384,98304
+33,oldstore/tblBlogs,22,98304,16384,Dynamic,Single,4096,16384,98304
+

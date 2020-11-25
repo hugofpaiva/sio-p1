@@ -1,0 +1,15 @@
+stat_name,index_name,stat_value,table_name,last_update,sample_size,database_name,stat_description
+n_diff_pfx01,PRIMARY,0,gtid_slave_pos,2020-10-26 15:55:28,1,mysql,domain_id
+n_diff_pfx02,PRIMARY,0,gtid_slave_pos,2020-10-26 15:55:28,1,mysql,"domain_id,sub_id"
+n_leaf_pages,PRIMARY,1,gtid_slave_pos,2020-10-26 15:55:28,NULL,mysql,Number of leaf pages in the index
+size,PRIMARY,1,gtid_slave_pos,2020-10-26 15:55:28,NULL,mysql,Number of pages in the index
+n_diff_pfx01,GEN_CLUST_INDEX,21,tblBlogs,2020-11-11 23:18:56,1,oldstore,DB_ROW_ID
+n_leaf_pages,GEN_CLUST_INDEX,1,tblBlogs,2020-11-11 23:18:56,NULL,oldstore,Number of leaf pages in the index
+size,GEN_CLUST_INDEX,1,tblBlogs,2020-11-11 23:18:56,NULL,oldstore,Number of pages in the index
+n_diff_pfx01,GEN_CLUST_INDEX,0,tblMembers,2020-10-26 19:08:30,1,oldstore,DB_ROW_ID
+n_leaf_pages,GEN_CLUST_INDEX,1,tblMembers,2020-10-26 19:08:30,NULL,oldstore,Number of leaf pages in the index
+size,GEN_CLUST_INDEX,1,tblMembers,2020-10-26 19:08:30,NULL,oldstore,Number of pages in the index
+n_diff_pfx01,GEN_CLUST_INDEX,8,tblProducts,2020-10-26 19:08:50,1,oldstore,DB_ROW_ID
+n_leaf_pages,GEN_CLUST_INDEX,1,tblProducts,2020-10-26 19:08:50,NULL,oldstore,Number of leaf pages in the index
+size,GEN_CLUST_INDEX,1,tblProducts,2020-10-26 19:08:50,NULL,oldstore,Number of pages in the index
+

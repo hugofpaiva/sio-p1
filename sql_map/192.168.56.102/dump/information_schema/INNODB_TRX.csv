@@ -1,0 +1,3 @@
+trx_id,trx_mysql_thread_id,trx_requested_lock_id,trx_query,trx_state,trx_weight,trx_started,trx_rows_locked,trx_is_read_only,trx_lock_structs,trx_wait_started,trx_rows_modified,trx_tables_in_use,trx_tables_locked,trx_unique_checks,trx_isolation_level,trx_operation_state,trx_lock_memory_bytes,trx_foreign_key_checks,trx_concurrency_tickets,trx_autocommit_non_locking,trx_last_foreign_key_error
+421589010604296,101798,NULL,"SELECT * FROM tblProducts WHERE id = -9660 UNION ALL SELECT NULL,NULL,NULL,NULL,CONCAT(0x717a767071,IFNULL(CAST(COUNT(*) AS NCHAR),0x20),0x716a707171) FROM information_schema.INNODB_TRX-- -",RUNNING,0,2020-11-12 00:32:46,0,1,0,NULL,0,1,0,1,REPEATABLE READ,NULL,1128,1,0,1,NULL
+

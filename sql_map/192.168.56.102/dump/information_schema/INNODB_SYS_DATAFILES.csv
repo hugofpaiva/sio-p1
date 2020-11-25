@@ -1,0 +1,9 @@
+PATH,SPACE
+./mysql/gtid_slave_pos.ibd,4
+./mysql/innodb_index_stats.ibd,2
+./mysql/innodb_table_stats.ibd,1
+./mysql/transaction_registry.ibd,3
+./oldstore/tblBlogs.ibd,22
+./oldstore/tblMembers.ibd,20
+./oldstore/tblProducts.ibd,21
+

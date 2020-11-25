@@ -1,0 +1,8 @@
+ID,TID,QUERY_ID,DB,HOST,INFO,STAGE,STATE,TIME,USER,COMMAND,TIME_MS,PROGRESS,MAX_STAGE,INFO_BINARY,MEMORY_USED,EXAMINED_ROWS,MAX_MEMORY_USED
+92221,1983,371840,oldstore,localhost,SELECT * FROM tblProducts WHERE id = __REFLECTED_VALUE__,0,Filling schema table,0,root,Query,0.842,0.000,0,SELECT * FROM tblProducts WHERE id = __REFLECTED_VALUE__,163496,0,163496
+5,667,0,NULL,<blank>,NULL,0,InnoDB shutdown handler,0,system user,Daemon,0.000,0.000,0,NULL,25792,0,25792
+4,660,0,NULL,<blank>,NULL,0,InnoDB purge coordinator,0,system user,Daemon,0.000,0.000,0,NULL,25792,0,25792
+3,661,0,NULL,<blank>,NULL,0,InnoDB purge worker,0,system user,Daemon,0.000,0.000,0,NULL,25792,0,25792
+2,662,0,NULL,<blank>,NULL,0,InnoDB purge worker,0,system user,Daemon,0.000,0.000,0,NULL,25792,0,25792
+1,663,0,NULL,<blank>,NULL,0,InnoDB purge worker,0,system user,Daemon,0.000,0.000,0,NULL,25792,0,25792
+

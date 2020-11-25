@@ -1,0 +1,14 @@
+TABLE_ID,FLAG,NAME,N_COLS,SPACE,ROW_FORMAT,SPACE_TYPE,ZIP_PAGE_SIZE
+14,0,SYS_DATAFILES,5,0,Redundant,System,0
+11,0,SYS_FOREIGN,7,0,Redundant,System,0
+12,0,SYS_FOREIGN_COLS,7,0,Redundant,System,0
+13,0,SYS_TABLESPACES,6,0,Redundant,System,0
+15,0,SYS_VIRTUAL,6,0,Redundant,System,0
+19,33,mysql/gtid_slave_pos,7,4,Dynamic,Single,0
+17,33,mysql/innodb_index_stats,11,2,Dynamic,Single,0
+16,33,mysql/innodb_table_stats,9,1,Dynamic,Single,0
+18,33,mysql/transaction_registry,8,3,Dynamic,Single,0
+37,33,oldstore/tblBlogs,6,22,Dynamic,Single,0
+35,33,oldstore/tblMembers,10,20,Dynamic,Single,0
+36,33,oldstore/tblProducts,8,21,Dynamic,Single,0
+

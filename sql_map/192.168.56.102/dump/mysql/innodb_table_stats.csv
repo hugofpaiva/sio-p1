@@ -1,0 +1,6 @@
+n_rows,table_name,last_update,database_name,clustered_index_size,sum_of_other_index_sizes
+0,gtid_slave_pos,2020-10-26 15:55:28,mysql,1,0
+21,tblBlogs,2020-11-11 23:18:56,oldstore,1,0
+0,tblMembers,2020-10-26 19:08:30,oldstore,1,0
+8,tblProducts,2020-10-26 19:08:50,oldstore,1,0
+

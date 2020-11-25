@@ -1,0 +1,14 @@
+TABLE_ID,NAME,AUTOINC,NUM_ROWS,REF_COUNT,CLUST_INDEX_SIZE,MODIFIED_COUNTER,OTHER_INDEX_SIZE,STATS_INITIALIZED
+14,SYS_DATAFILES,0,0,0,0,0,0,Uninitialized
+11,SYS_FOREIGN,0,0,0,0,0,0,Uninitialized
+12,SYS_FOREIGN_COLS,0,0,0,0,0,0,Uninitialized
+13,SYS_TABLESPACES,0,0,0,0,0,0,Uninitialized
+15,SYS_VIRTUAL,0,0,0,0,0,0,Uninitialized
+19,mysql/gtid_slave_pos,0,0,1,1,0,0,Initialized
+17,mysql/innodb_index_stats,0,13,1,1,0,0,Initialized
+16,mysql/innodb_table_stats,0,4,1,1,0,0,Initialized
+18,mysql/transaction_registry,0,0,1,1,0,3,Initialized
+37,oldstore/tblBlogs,0,21,1,1,0,0,Initialized
+35,oldstore/tblMembers,0,0,1,1,8,0,Initialized
+36,oldstore/tblProducts,0,8,2,1,0,0,Initialized
+
